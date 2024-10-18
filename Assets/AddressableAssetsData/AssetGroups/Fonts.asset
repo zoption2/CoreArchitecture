@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Fonts
+  m_EditorClassIdentifier: 
+  m_GroupName: Fonts
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 88cb5bc9fec3d4b31a8ee9b9a9fd01e2
+  m_SerializeEntries:
+  - m_GUID: 5ed8edf974ac9479fa2f241556d975bc
+    m_Address: TMP Settings
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc5dc3d0844554b7ba3bc00bf404ef89
+    m_Address: Assets/_Resources/TextMeshPro/Assets/Fonts
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - tmp_fonts
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aae0dbf21f225422fa034c77a1b1dd02
+    m_Address: Assets/_Resources/TextMeshPro/Assets/Sprites
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - tmp_sprites
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0dfc6c97a6a14ea0a9ee8772a545c34, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b0391544182864492b2b9888194c6d3e, type: 2}
+    - {fileID: 11400000, guid: 75770809674604480b42e748b501ed25, type: 2}

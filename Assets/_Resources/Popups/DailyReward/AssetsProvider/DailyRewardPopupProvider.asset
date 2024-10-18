@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c9f86ec2143c47308ac64c3d1567411, type: 3}
+  m_Name: DailyRewardPopupProvider
+  m_EditorClassIdentifier: 
+  _loader:
+    _reference:
+      m_AssetGUID: 5b6e3ce384a1f394aa9a3ae3cb2a9cab
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+  _rewards:
+  - <Reward>k__BackingField: 5
+    <Loader>k__BackingField:
+      _reference:
+        m_AssetGUID: faded7baab8d2b34ebbc223d85434eb9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+  - <Reward>k__BackingField: 9
+    <Loader>k__BackingField:
+      _reference:
+        m_AssetGUID: bef11e1e0561ce14780f6912e7f56396
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+  - <Reward>k__BackingField: 16
+    <Loader>k__BackingField:
+      _reference:
+        m_AssetGUID: b95b419f9a205e34fbe3ab0c8a8c9063
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0

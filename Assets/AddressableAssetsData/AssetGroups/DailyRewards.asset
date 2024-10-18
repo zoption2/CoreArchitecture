@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: DailyRewards
+  m_EditorClassIdentifier: 
+  m_GroupName: DailyRewards
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 11f04f774606c49e9ac8ddaa241d1acc
+  m_SerializeEntries:
+  - m_GUID: b95b419f9a205e34fbe3ab0c8a8c9063
+    m_Address: Assets/_Resources/Popups/DailyReward/Prefabs/Components/DailyRewardItemCard
+      Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bef11e1e0561ce14780f6912e7f56396
+    m_Address: Assets/_Resources/Popups/DailyReward/Prefabs/Components/DailyRewardItemStars
+      Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faded7baab8d2b34ebbc223d85434eb9
+    m_Address: Assets/_Resources/Popups/DailyReward/Prefabs/Components/DailyRewardItemXP
+      Variant.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b6e3ce384a1f394aa9a3ae3cb2a9cab
+    m_Address: Assets/_Resources/Popups/DailyReward/Prefabs/DailyRewardsPopup.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c0dfc6c97a6a14ea0a9ee8772a545c34, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b66796f39b9a6465dae88df16a29c127, type: 2}
+    - {fileID: 11400000, guid: 7f624dbc27c094c16aca16f0434f69c6, type: 2}
